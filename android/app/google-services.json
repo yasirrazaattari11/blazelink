@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112600147094",
+    "project_id": "blazelink-6cefe",
+    "storage_bucket": "blazelink-6cefe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112600147094:android:c75d02e9cf858522f04eb7",
+        "android_client_info": {
+          "package_name": "com.yasirraza.blaze_link"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtI44fCuhSTRToYWXR_6UtOREbC0v_Qu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
